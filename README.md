@@ -49,14 +49,6 @@ This project is a **SQL Server-based database system** designed to manage univer
 
 ---
 
-## 📂 File Structure
-
-- `schema.sql` — SQL script to create all tables.
-- `sample_data.sql` — SQL script to insert sample users, clubs, events, and more.
-- `README.md` — Project description.
-
----
-
 ## 🛠️ Technologies Used
 
 - Microsoft SQL Server
@@ -64,6 +56,6 @@ This project is a **SQL Server-based database system** designed to manage univer
 
 ---
 
-## 📧 Contact
+## Diagram
 
-For questions or collaboration, contact: **yourname@example.com**
+![Alt Text](Diagram.png)
