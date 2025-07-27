@@ -56,6 +56,6 @@ This project is a **SQL Server-based database system** designed to manage univer
 
 ---
 
-## Diagram
+## 📊 Diagram
 
 ![Alt Text](Diagram.png)
